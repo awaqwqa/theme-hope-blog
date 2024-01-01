@@ -3,6 +3,7 @@ home: true
 layout: BlogHome
 icon: home
 title: Blog Home
+bgImage: https://awaqwqa.github.io/yourName.jpg
 heroImage: /logo.svg
 heroText: Elegy blog
 tagline: 所以说生命 它璀璨如歌
